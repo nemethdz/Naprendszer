@@ -46,6 +46,8 @@ a{
   font-size: 90%;
   padding: 10px;
   border: 1px dashed #FFB347;
+  font-style: italic;
+  background-color: #2B3A67;
 }
 
 #bolygok{
@@ -56,4 +58,8 @@ a{
 
 img {
  margin: 10px; 
+}
+
+ul {
+  list-style-type: square;
 }
