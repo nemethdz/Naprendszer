@@ -1,6 +1,8 @@
 body{
   padding: 10px 40px;
   font-family: Verdana, sans-serif;
+  background-image: url('hatter.png');
+  color: #FFF3C4
 }
 
 h1, h2{
@@ -19,10 +21,12 @@ p{
 
 a{
   text-decoration: none;
+  color: #FFB347;
 }
 
 #naprajz{
   float: left;
+  width: 220px;
 }
 
 .bevezeto{
@@ -31,10 +35,11 @@ a{
 
 .oszlopok{
   column-count: 3;
+  line-height: 150%;
 }
 
 .fk{
-  font-weight: normal;
+  font-weight: bold;
 }
 
 .kiemel{
@@ -47,4 +52,8 @@ a{
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+img {
+ margin: 10px; 
 }
