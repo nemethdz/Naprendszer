@@ -1,0 +1,50 @@
+body{
+  padding: 10px 40px;
+  font-family: Verdana, sans-serif;
+}
+
+h1, h2{
+  border-bottom: 2px solid #FFB347;
+  letter-spacing: 1px;
+}
+
+h1{
+  margin: 30px 0px 40px 20px;
+}
+
+p{
+  text-align: justify;
+  text-indent: 1.5em;
+}
+
+a{
+  text-decoration: none;
+}
+
+#naprajz{
+  float: left;
+}
+
+.bevezeto{
+  font-size: 110%;
+}
+
+.oszlopok{
+  column-count: 3;
+}
+
+.fk{
+  font-weight: normal;
+}
+
+.kiemel{
+  font-size: 90%;
+  padding: 10px;
+  border: 1px dashed #FFB347;
+}
+
+#bolygok{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
